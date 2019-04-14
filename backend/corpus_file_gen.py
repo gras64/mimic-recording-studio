@@ -35,10 +35,10 @@ class Name:
             help='file path')
         parser.add_argument(
             '--disable_downloader', default="False",
-            help='disable poodle and mozilla voice downloader')
+            help='disable poodle and mozilla voice downloader with True')
         parser.add_argument(
             '--disable_num_worker', default="False",
-            help='disable transalate 1 to one')
+            help='disable transalate 1 to one with True')
 
         args = parser.parse_args()
         #  print("args: ""\n"+str(args))
@@ -134,15 +134,20 @@ class Name:
             number = ""
             # print("line bevor"+"\n"+line)
             num = extract_numbers(line, short_scale=True, ordinals=False,
-                        lang="en-us")
+                        lang=lang)
             num = re.sub(r'(\.0)', '', str(num))
             num = re.findall(r'\d+', num)
             if not num is False:
                 for item in num:
-                    print("item #"+item)
+                    #print("item #"+item)
+                    #fobj_test = open("prompts"+"/"+lang+"_test_file.csv", "a")
+                    #fobj_test.write("item #"+item+"\n")
+                    #fobj_test.write(str(line)+"\n")
                     number = pronounce_number(int(item), lang=lang, places=2,
                             short_scale=True, scientific=False)
-                    line = line.replace(str(item), number)
+                    line = re.sub(r'\s'+str(item)+r'\s', ' '+number+' ', line,  1)
+                    #fobj_test.write(str(line)+"\n")
+                    #fobj_test.close()
             # print("line after"+"\n"+line)
         return line
 
