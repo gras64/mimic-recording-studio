@@ -1,4 +1,4 @@
-const apiRoot = "http://localhost:5000/";
+const apiRoot = "http://192.168.0.71:5000/";
 
 export const postAudio = (audio, prompt, uuid) => {
     return fetch(apiRoot + `api/audio/?uuid=${uuid}&prompt=${prompt}`, {
