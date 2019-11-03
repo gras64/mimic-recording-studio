@@ -8,6 +8,10 @@ Welt	4
 Erde	4
 Der Zähler ist jetzt bei dreißig	32
 Wir sind jetzt bei fünfundreßig	31
+<<<<<<< HEAD
+=======
+Hallo	5
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Hallo zurück	12
 OK	2
 Automatische Lautstärke aktiviert	33
@@ -26,7 +30,11 @@ Ich habe die automatische Lautstärke nun zurückgesetzt	54
 Deaktiviere die automatische Lautstärkemessung	46
 Lösche die automatische Lautstärkemessung	41
 Setze die automatische Lautstärkemessung zurück	47
+<<<<<<< HEAD
 Hier sind die Gute Nacht Geschichten aus meiner Bibliothek.	59
+=======
+Hier sind die Gute Nacht Geschichten aus meiner Bibliothek.	62
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Liste die Gute-Nacht-Geschichten auf	36
 Welche Geschichten hast du	26
 Welche Gute Nacht Geschichten hast du	37
@@ -39,6 +47,10 @@ Okay, sicher. Hier ist eine große Auswahl aus meiner Bibliothek.	64
 Kein Problem, mach es dir bequem während ich eine Geschichte auswähle.	70
 Erzähl mir eine Geschichte	26
 Erzähl mir eine Gute Nacht Geschichte	37
+<<<<<<< HEAD
+=======
+Erzähl mir ein Märchen	22
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Erzähl uns eine Geschichte	26
 Erzähl mir eine gute Geschichte	31
 Rotkäppchen	11
@@ -75,6 +87,10 @@ Glühbirnen	10
 LED	3
 einschalten	11
 schalte	7
+<<<<<<< HEAD
+=======
+schalte	7
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Zustand	7
 Status	6
 Sensor	6
@@ -158,6 +174,10 @@ Es sind keine Aufgaben auf der neusten Liste	44
 Liste neu hat keine Zitronen drin	33
 Lese Meiner letzten Liste	25
 lese liste Bürosachen	21
+<<<<<<< HEAD
+=======
+lies	4
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Liste Frauensachen hat eine Aufgabe auf sich	44
 Rückgängig	10
 zurückkehren	12
@@ -243,6 +263,10 @@ tippe auf Sieg	14
 tippe	5
 Bewege die Maus zu zweihundert und einhundert	45
 bewege maus zu siebenundreisig und achtunddreißig	49
+<<<<<<< HEAD
+=======
+runter	6
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 halte die Escape Taste	22
 Halte die Enter taste gedrückt	30
 unten	5
@@ -320,8 +344,15 @@ nun, Ich muss überlegen, ob ich mich an Rapunzel erinnere	57
 Ich kann die Geschichte Aschenputtel erzählen.	46
 Ich erinnere mich an die Dornröschen.	37
 Rotkäppchen von Grimms Märchen	30
+<<<<<<< HEAD
 Gedächtnis	10
 bedenke an	10
+=======
+Gehirn	6
+Gedächtnis	10
+bedenke an	10
+alles	5
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 vergiß	6
 Setze zurück	12
 Wissensdatenbank zurücksetzen	29
@@ -333,6 +364,10 @@ was	3
 wer	3
 wann	4
 wie	3
+<<<<<<< HEAD
+=======
+wo	2
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Entschuldigung, ich weiß die Antwort darauf nicht	49
 Ich habe die Antwort darauf nicht	33
 Ich weiß nicht	14
@@ -357,6 +392,10 @@ wo ist	6
 wo wird	7
 wo tatest	9
 woher kommt	11
+<<<<<<< HEAD
+=======
+wo tatest	9
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 wann ist	8
 wann wird	9
 wann hat	8
@@ -366,6 +405,10 @@ Es tut mir leid, ich verstehe nicht.	36
 Ich weiß nicht, was das bedeutet.	33
 Entschuldigung, dass habe ich nicht verstanden.	47
 Entschuldigung, ich verstehe nicht.	35
+<<<<<<< HEAD
+=======
+Ich verstehe nicht.	19
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Ich bin nicht sicher, ob ich dich verstanden habe.	50
 Möglicherweise musst du das anders sagen.	41
 Bitte formuliere deinen Befehl um.	34
@@ -386,6 +429,10 @@ warum tut	9
 warum machst	12
 sage	4
 geben	5
+<<<<<<< HEAD
+=======
+was	3
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 E-Mail	6
 senden	6
 Quelle	6
@@ -403,6 +450,10 @@ Es gibt keinen aktuellen Spielstand	35
 Es existiert kein Speicherstand	31
 spiele	6
 gehe zu	7
+<<<<<<< HEAD
+=======
+gehe zu	7
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 speichern	9
 Speicherstand	13
 gespeichert	11
@@ -411,6 +462,7 @@ Der Speicherstand wurde entfernt	32
 zork	4
 Briefkasten	11
 weißes Haus	11
+<<<<<<< HEAD
 feuere	6
 rufe an	7
 löse aus	8
@@ -418,17 +470,56 @@ Setze die Wohnung Temperatur auf zwanzig	40
 erhelle	7
 dimme	5
 mache an	8
+=======
+aktiviere	9
+feuere	6
+rufe an	7
+löse aus	8
+Szene	5
+Automatisierung	15
+Skript	6
+Setze die Wohnung Temperatur auf zwanzig	40
+reduziere	9
+herunter	8
+wo ist	6
+orte	4
+wo	2
+erhöhe	6
+hoch	4
+erhelle	7
+dimme	5
+mache an	8
+Lichter	7
+Lampe	5
+Lampen	6
+Glühbirne	9
+Glühbirnen	10
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 L.E.D.	6
 schalte an ein	14
 schalte aus	11
 schalte um	10
 gib an	6
+<<<<<<< HEAD
 Detektor	8
 lies vor	8
+=======
+Status	6
+Sensor	6
+Detektor	8
+Wert	4
+lies vor	8
+was ist aktuell	15
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 erzähl mir der aktuelle	23
 Sag mit den aktuelle	20
 Gib mir den Wert von	20
 Was ist der Wert des Thermostats	32
+<<<<<<< HEAD
+=======
+setze	5
+drehe	5
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 wechsle	7
 ausgelöste Automation Fernseher.	32
 habe Kaffemaschiene ausgelöst.	30
@@ -507,9 +598,15 @@ Jetzt ein Leckerli	18
 Witz	4
 klopf klopf	11
 rechne	6
+<<<<<<< HEAD
 durchsuche den Computer	23
 suche das	9
 durchsuche Computer	19
+=======
+durchsuche den Computer	28
+suche das	9
+durchsuche Computer	24
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 suche Datei	11
 suche Dateinamen	16
 durschuche den computer nach	28
@@ -549,12 +646,20 @@ verblassen	10
 dimmen	6
 schwärzen	9
 reduzieren	10
+<<<<<<< HEAD
+=======
+herunter	8
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Kann Audioanlage nicht ausschalten, weil es eine Gruppe ist.	60
 Kann Musikanlage nicht einschalten, weil sie eine Gruppe ist.	61
 erhellen	8
 beleuchten	10
 verstärken	10
 erhöhen	7
+<<<<<<< HEAD
+=======
+hoch	4
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 aus	3
 deaktivieren	12
 an	2
@@ -565,6 +670,12 @@ Temperatur	10
 Wärme	5
 Kelvin	6
 Farbtemperatur	14
+<<<<<<< HEAD
+=======
+wechsle	7
+setze	5
+wechsle	7
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 ändere um	9
 wechsle um	10
 mache	5
@@ -592,7 +703,11 @@ Mycroft Chat	12
 Minecraft Chat	14
 beginne Überwachung von mycroft	31
 aktiviere mycroft Überwachung	29
+<<<<<<< HEAD
 Es gibt ungelesene Nachrichten auf mycroft	42
+=======
+Es gibt ungelesene Nachrichten auf mycroft	54
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 gibt es ungelesene Nachrichten auf mycroft	42
 Es scheint Mittag zu sein, ich passe die Helligkeit an.	55
 Okay, die Sonne kommt heraus, ich passe die Helligkeit an	57
@@ -683,6 +798,10 @@ Gold	4
 Goldrute	8
 grau	4
 grün	4
+<<<<<<< HEAD
+=======
+grüngelb	8
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Honigmelone	11
 leuchtendes Pink	16
 Indianerrot	11
@@ -697,6 +816,10 @@ Helles Korallrot	16
 Helly Zyan	10
 Helles blasses Gelb	19
 Helles Blassgelb	16
+<<<<<<< HEAD
+=======
+hellgrau	8
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 hellgrün	8
 hellpink	8
 Helles Lachrosa	15
@@ -827,6 +950,10 @@ Goldrute,	9
 grau,	5
 grün,	5
 Honigmelone,	12
+<<<<<<< HEAD
+=======
+Kräftiges Pink,	15
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Indianerrot,	12
 indigo,	7
 elfenbein,	10
@@ -936,9 +1063,19 @@ rufe Test auf	13
 rufe Freigabe Test auf	22
 gib Test frei	13
 Test veröffentlicht	19
+<<<<<<< HEAD
 führe aus	9
 breche ab	9
 beende	6
+=======
+alle	4
+führe aus	9
+breche ab	9
+schalte aus	11
+beende	6
+lösche	6
+stop	4
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 leere	5
 schalte stumm	13
 Ruhe	4
@@ -1026,6 +1163,12 @@ wiederhole das Nationalparkquiz	31
 stelle mir Quizfragen zu den Nationalparks	42
 Wo ist	6
 Entschuldigung. Es gab Probleme mit dem Befehl.	47
+<<<<<<< HEAD
+=======
+setze	5
+dimme	5
+hell	4
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Ich weiß nicht was zu tun ist	29
 Ich habe es nicht verstanden	28
 Ich bin verloren	16
@@ -1034,33 +1177,73 @@ Entschuldige, die Element-Liste konnte nicht geladen werden.	60
 Entschuldige. Das Element wurde nicht in Open Hab gefunden.	59
 liste Open Hab Elemente auf	27
 liste Openhab Elemente auf	26
+<<<<<<< HEAD
 Ok. Ich habe achtzehn Elemente gefunden.	40
+=======
+drehe	5
+schalte um	10
+setze	5
+Ok. Ich habe achtzehn Elemente gefunden.	38
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 aktualisiere Open Hab Elemente	30
 aktualisiere Openhab Elemente	29
 Helligkeit gewechselt für Bad	29
 Entschuldigung. Es gibt Probleme mit dem Befehl.	48
+<<<<<<< HEAD
+=======
+setze	5
+dimme	5
+erhelle	7
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Ich weiß nicht, was ich tun soll	32
 Ich verstehe nicht	18
 Ich weiß nicht mehr weiter	26
 Folgende Elemente gefunden:	27
 Entschuldigung, ich kann die Element-Liste nicht bekommen.	58
 Entschuldigung. Element in Openhab nicht gefunden.	50
+<<<<<<< HEAD
+=======
+liste Openhab Elemente auf	26
+schalte	7
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 mach	4
 In Ordnung. Ich fand fünfzehn Items.	36
 Aktualisiere Openhab Elemente	29
 reguliere	9
+<<<<<<< HEAD
 umschalten	10
+=======
+erhöhe	6
+was ist	7
+wechsle	7
+umschalten	10
+spiele	6
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 beseitige Fehler	16
 Fehler beseitigen	17
 überspringe	11
 nächster	8
+<<<<<<< HEAD
+=======
+aus	3
+an	2
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Pandora	7
 Pandoras	8
 Pianobar	8
 Pause	5
+<<<<<<< HEAD
 wiederholen	11
 Song	4
 Spur	4
+=======
+Liste	5
+was	3
+wiederholen	11
+Song	4
+Spur	4
+Song	4
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Stationen	9
 Station	7
 Kanal	5
@@ -1078,11 +1261,19 @@ Spiele die letzte Station, WDR auf Pandora	42
 Nehme die Radio Station auf Pandora wieder auf	46
 Deine Pandora Stationen heißen Radio Regenbogen	47
 Du hast die Pandora Station MDR abonniert	41
+<<<<<<< HEAD
+=======
+und	3
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 bis	3
 zwei	4
 zwischen	8
 von	3
 Zahl	4
+<<<<<<< HEAD
+=======
+Wert	4
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 wähle aus	9
 Die Zahl, die ich gewählt habe, ist, neunzehn	45
 Ich habe, neunundfünfzig, als meine Zahl gewählt	48
@@ -1212,11 +1403,19 @@ Na Sicher	9
 Wirklich machen	15
 ändere meine Meinung	20
 Lass es mich wissen falls du deine Meinung änderst	50
+<<<<<<< HEAD
+=======
+Nein	4
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 nicht	5
 nicht machen	12
 Stop	4
 Halt	4
 Verlassen	9
+<<<<<<< HEAD
+=======
+beenden	7
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Ende	4
 nicht jetzt	11
 Das ist genug	13
@@ -1226,6 +1425,10 @@ Musik ist pausiert, sage wiederaufnehmen um das Abspielen fortzusetzen	70
 Sage anhalten, wenn du fertig bist	34
 Alle	4
 tat	3
+<<<<<<< HEAD
+=======
+vergiss	7
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Phrase	6
 Phrasen	7
 erinnere	8
@@ -1235,12 +1438,24 @@ Es ist vergessen.	17
 Ich werde an dieser Phrase festhalten.	38
 Entschuldige bitte, ich kann mich an keine Phrase erinnern!	59
 Entschuldige bitte, es gab einen Fehler, ich konnte nichts vergessen!	69
+<<<<<<< HEAD
 Jo	2
 jepp	4
 Ok, hier ist dein zufälliger Ratten Fakt	40
 Gib mir einen Nagetier Fakt	27
 Erzähl mir einen Nagetier Fakt	30
 Gib mir einen Ratten Fakt	25
+=======
+ja	2
+Jo	2
+jepp	4
+sicher	6
+Ok, hier ist dein zufälliger Ratten Fakt	43
+Gib mir einen Nagetier Fakt	27
+Erzähl mir einen Nagetier Fakt	30
+Gib mir einen Ratten Fakt	25
+abbrechen	9
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 erstellen	9
 neu	3
 Initialisieren	14
@@ -1251,9 +1466,19 @@ Donnerstag	10
 Freitag	7
 Samstag	7
 Sonntag	7
+<<<<<<< HEAD
 entfernen	9
 zerstören	9
 beschreiben	11
+=======
+löschen	7
+entfernen	9
+zerstören	9
+beschreiben	11
+deaktivieren	12
+aktivieren	10
+Liste	5
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Routine	7
 ausführen	9
 auslösen	8
@@ -1300,6 +1525,10 @@ Geräte	6
 Schnittstellen	14
 Gerät	5
 Schnittstelle	13
+<<<<<<< HEAD
+=======
+Liste	5
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 suche	5
 Monitor	7
 Überwachen	10
@@ -1314,6 +1543,10 @@ WiFi-Netzwerke	14
 Passwort	8
 auswählen	9
 benutzen	8
+<<<<<<< HEAD
+=======
+starte	6
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 beginne	7
 anhalten	8
 ende	4
@@ -1332,9 +1565,24 @@ Starte den Monitor	18
 stoppe Monitor	14
 Alarm	5
 Alarme	6
+<<<<<<< HEAD
 außer	5
 ausschließend	13
 ausschließen	12
+=======
+alle	4
+beide	5
+außer	5
+ausschließend	13
+ausschließen	12
+Montag	6
+Dienstag	8
+Mittwoch	8
+Donnerstag	10
+Freitag	7
+Samstag	7
+Sonntag	7
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 wiederkehrend	13
 wiederholend	12
 jeden	5
@@ -1348,10 +1596,26 @@ donnerstags	11
 freitags	8
 samstags	8
 sonntags	8
+<<<<<<< HEAD
 füge hinzu	10
 erstelle	8
 schließen	9
 töten	5
+=======
+wochentags	10
+füge hinzu	10
+setze	5
+starte	6
+erstelle	8
+stop	4
+schließen	9
+beenden	7
+abbrechen	9
+lösche	6
+töten	5
+aus	3
+deaktivieren	12
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 ok	2
 okay	4
 alles klar	10
@@ -1415,6 +1679,10 @@ einmalig	8
 für wann?	9
 zu welcher Uhrzeit?	19
 was klingelt mein nächste Alarm	31
+<<<<<<< HEAD
+=======
+wann wird mein Alarm klingeln	29
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Wann ist der nächste morgentliche Alarm	39
 an welchen Tagen?	17
 für welche Tage?	16
@@ -1442,11 +1710,23 @@ Schlummer	9
 Schlummeralarm	14
 Schlummeralarm für sieben Minuten	33
 Alarm pausieren	15
+<<<<<<< HEAD
 entferne	8
+=======
+lösche	6
+entferne	8
+leere	5
+lösche	6
+spiele	6
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 wiederhole	10
 Wiedergabe	10
 Spiele ab	9
 spielen	7
+<<<<<<< HEAD
+=======
+wiederholen	11
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Spiele die Aufnahme	19
 spiele die Aufnahme ab	22
 Aufnahme	8
@@ -1461,10 +1741,19 @@ Aufnahme verworfen	18
 Aufnahme von Audio für neun Sekunden	36
 Starte Aufnahme für dreiundvierzig Sekunden	43
 Aufnahme für zweiundvierzig	27
+<<<<<<< HEAD
+=======
+Konfiguration	13
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Einstellung	11
 aktualisiere	12
 neuladen neu	12
 synchronisiere	14
+<<<<<<< HEAD
+=======
+was	3
+was ist	7
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 zeige mir	9
 nenne mir	9
 Zuhörer	7
@@ -1481,8 +1770,17 @@ Name	4
 mycroft precise	15
 precise model	13
 model	5
+<<<<<<< HEAD
 zuordnen zu	11
 nutze	5
+=======
+setze	5
+mache	5
+zuordnen zu	11
+wechsle	7
+nutze	5
+wo	2
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 wo bist du	10
 sag mir ist dein Stadt	22
 Die Konfiguration hat sich nicht verändert	42
@@ -1504,15 +1802,28 @@ Zukunft	7
 morgen	6
 Sag mir	7
 Was	3
+<<<<<<< HEAD
 Versuch später nocheinmal zu fragen	35
 definitiv	9
 selbstverständlich nicht	24
+=======
+Ja	2
+Nein	4
+Versuch später nocheinmal zu fragen	35
+definitiv	9
+selbstverständlich nicht	24
+Sicher	6
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Nee	3
 Warum nicht?	12
 Ich würde nicht drauf wetten	28
 Logo!	5
 Das kann dauern	15
 Datum	5
+<<<<<<< HEAD
+=======
+Tag	3
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 heute	5
 Bildschirm	10
 zeige	5
@@ -1542,6 +1853,11 @@ wie geht es dir	15
 wie ist es dir gegangen	23
 wie war dein Tag	16
 danke	5
+<<<<<<< HEAD
+=======
+Hallo Welt	10
+Hallo	5
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Dir ebenfalls guten Tag	23
 mir geht es gut	15
 ziemlich gut	12
@@ -1556,6 +1872,10 @@ Gern geschehen.	15
 Kein Problem.	13
 Bitte schön.	12
 installiere	11
+<<<<<<< HEAD
+=======
+entfernen	9
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Abgebrochen.	12
 Aktion abgebrochen.	19
 Mehrere Skills wurden gefunden, welchen möchtest du...	54
@@ -1589,6 +1909,10 @@ dreckigen	9
 ungezogenen	11
 Chuck	5
 Chuck Norris	12
+<<<<<<< HEAD
+=======
+Witz	4
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 bring mich zum Lachen	21
 erhelle meinen Tag	18
 erzähl mir einen Witz	21
@@ -1597,9 +1921,18 @@ nicht beleidigenden	19
 dämlichen	9
 Geh schlafen	12
 Schlafenszeit	13
+<<<<<<< HEAD
 Gehe schlafen.	14
 ich bin wieder wach	19
 neuesten	8
+=======
+Okay.	5
+Gehe schlafen.	14
+ich bin wieder wach	19
+was ist	7
+neuesten	8
+sag mir	7
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Nachrichten	11
 Was sind die neuesten Nachrichten	33
 Lies mir die Nachrichten vor	28
@@ -1644,6 +1977,10 @@ In Ordung. Lass uns Zahl erraten spielen	40
 Zu hoch	7
 Zu niedrig	10
 Einheit	7
+<<<<<<< HEAD
+=======
+Gerät	5
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Mycroft	7
 Mark eins	9
 Mark zwei	9
@@ -1713,17 +2050,35 @@ Die wunderbare Mycroft A.I. community mit team.	47
 Jeder im Mycroft A.I. community und Team.	41
 Musik	5
 Melodien	8
+<<<<<<< HEAD
 pausiere	8
+=======
+Song	4
+Radio	5
+nächster	8
+überspringe	11
+pausiere	8
+spiele	6
+starte	6
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 wiedergabe	10
 wieder abspielen	16
 wiederaufnehmen	15
 vorheriger	10
 gehe zurück	11
 gehe eins zurück	16
+<<<<<<< HEAD
+=======
+setze	5
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 pause aufheben	14
 Titel	5
 Entschuldigung, ich weiß nicht, wie man spielt	46
 Ich bin nicht sicher wie man spielt	35
+<<<<<<< HEAD
+=======
+fortsetzen	10
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 starte neu	10
 Starte Musik neu	16
 Setze Musik fort	16
@@ -1809,6 +2164,11 @@ Danke fürs Zuhören	18
 Ich hoffe, dir hat meine Stimme gefallen	40
 Versuch du es jetzt	19
 sprich	6
+<<<<<<< HEAD
+=======
+sage	4
+wiederhole	10
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 buchstabiere	12
 buchstabiere das Wort	21
 Aussprache von	14
@@ -1817,6 +2177,11 @@ Aktienkurs	10
 Handel bei	10
 Entschuldigung, ich konnte keinen Aktienkurs für Google finden.	63
 Apple existiert nicht oder hat keinen Aktienkurs.	49
+<<<<<<< HEAD
+=======
+Stop	4
+Ruhe	4
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 halt den Mund	13
 sei leise	9
 Bitte beschreibe kurz das Problem war, das du erlebt hast	57
@@ -1829,9 +2194,19 @@ erstelle ein Support Ticket	27
 Ein Moment.	11
 Unterstützung	13
 Mycroft Fehlerbehebungs Assistenten	35
+<<<<<<< HEAD
 überprüfen	10
 finden	6
 laufend	7
+=======
+ja	2
+sicher	6
+bitte	5
+überprüfen	10
+finden	6
+laufend	7
+was ist	7
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Hardware Plattform	18
 Plattform Version	17
 Firmware Version	16
@@ -1845,19 +2220,42 @@ Ich laufe auf einem Gerät was keine Offizielle Plattform Version ist.	69
 Verstanden, Ich werde auf der älteren Version bleiben	53
 Du hast die aktuellste Version.	31
 leiser	6
+<<<<<<< HEAD
 verringere	10
 runterdrehen	12
 anheben	7
 steigern	8
 aufdrehen	9
 lauter	6
+=======
+reduziere	9
+verringere	10
+runterdrehen	12
+leiser	6
+anheben	7
+erhöhen	7
+steigern	8
+erhöhen	7
+aufdrehen	9
+lauter	6
+leise	5
+standard	8
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 laut	4
 stumm	5
 still	5
 Prozent	7
+<<<<<<< HEAD
 sagen	5
 zurücksetzen	12
 aufheben	8
+=======
+was	3
+sagen	5
+zurücksetzen	12
+aufheben	8
+wiederherstellen	16
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Lautstärke	10
 Lautsprecher	12
 ton	3
@@ -1868,6 +2266,11 @@ Fahrenheit	10
 Vorhersage	10
 Höchstwert	10
 höchste	7
+<<<<<<< HEAD
+=======
+Maximum	7
+Maximum	7
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 feucht	6
 Luftfeuchtigkeit	16
 dunstig	7
@@ -1876,6 +2279,10 @@ nächsten Stunden	16
 einigen Stunden	15
 nächsten paar Stunden	21
 einige Stunden	14
+<<<<<<< HEAD
+=======
+nächsten Stunden	16
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 später	6
 Seattle	7
 Los Angeles, Kalifornien Angeles. A.	36
@@ -1894,19 +2301,40 @@ Washington D C	14
 Atlanta	7
 Tiefstwert	10
 niedrigste	10
+<<<<<<< HEAD
+=======
+Minimum	7
+Minimum	7
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Norden	6
 Nordosten	9
 Nordwesten	10
 nächste	7
 wieder	6
+<<<<<<< HEAD
+=======
+wann	4
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 wird	4
 wird es	7
 regnerisch	10
 verschneit	10
 Niederschlag	12
+<<<<<<< HEAD
 nass	4
 winterlich	10
 Niesel	6
+=======
+regnerisch	10
+verschneit	10
+nass	4
+winterlich	10
+Niesel	6
+wie	3
+was ist	7
+was wird	8
+sage	4
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Süden	5
 Südosten	8
 Südwesten	9
@@ -1917,11 +2345,23 @@ Tagesanbruch	12
 Tag anbrechen	13
 Sonnenuntergang	15
 Sonne untergehen	16
+<<<<<<< HEAD
 kalt	4
 kühl	4
 warm	4
 heiß	4
 Celsius	7
+=======
+Dämmerung	9
+Temperatur	10
+kalt	4
+kühl	4
+kühl	4
+warm	4
+heiß	4
+Celsius	7
+Celsius	7
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Westen	6
 Wetter	6
 regnen	6
@@ -1929,9 +2369,18 @@ schneien	8
 Schneeregen	11
 hageln	6
 sonnig	6
+<<<<<<< HEAD
 Wochenende	10
 Wind	4
 windig	6
+=======
+heiß	4
+kalt	4
+Wochenende	10
+Wind	4
+windig	6
+windig	6
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 stürmend	8
 wehend	6
 In Nürnberg wird die Temperatur heute neunzehn Grad erreichen.	62
@@ -1994,9 +2443,17 @@ wikipedia	9
 erzähl mir von	14
 erzähl uns von	14
 was sagt wikipedia über	23
+<<<<<<< HEAD
 möchtest du etwas über den Eifelturm hören	42
 Ich kann keinen passenden Wikipedia artikel finden	50
 Ich fürchte, darüber es gibt keinen Artikel	43
+=======
+suche	5
+möchtest du etwas über den Eifelturm hören	42
+Ich kann keinen passenden Wikipedia artikel finden	50
+Ich fürchte, darüber es gibt keinen Artikel	43
+oder	4
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Einen moment bitte, während ich nach Bremen schaue	50
 Lass mich nach Dresden schauen	30
 Ich prüfe Wikipedia auf Duisburg	32
@@ -2005,6 +2462,10 @@ Das ist alles was ich finden kann	33
 code,de	7
 laufen	6
 Geschwindigkeitstest	20
+<<<<<<< HEAD
+=======
+und	3
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Ich sehe die Spotify Geräte mit den Namen:	42
 Ich fand die Spotify Geräte mit dem Namen:	42
 dies ist das Schwarze Album	27
@@ -2015,6 +2476,11 @@ das ist Madonna	15
 wir hören Depeche Mode	22
 Wir hören Helo von Adele	24
 Ich spiele Purple Rain von Prince	33
+<<<<<<< HEAD
+=======
+Gerät	5
+Geräte	6
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Ich konnte das Gerät Küche nicht finden	39
 Es gibt kein Spotify Gerät namens Kinderzimmer	46
 nach	4
@@ -2044,11 +2510,20 @@ Entschuldigung, ich bekomme keine Ergebnisse dafür.	51
 Uh-oh, Ich konnte leider nicht finden, wonach du suchst.	56
 Momentan wird nichts abgespielt	31
 Ich spiele nichts ab	20
+<<<<<<< HEAD
 dies ist von den Toten Hosen	28
 dieser Titel ist aus der mit dem Wolf tanzt	43
 Spotify konnte Wiedergebe nicht starten.	40
 Playlist wurde nicht gefunden	29
 Es wurde keine übereinstimmende Playlist gefunden	49
+=======
+dies ist von den Toten Hosen	20
+dieser Titel ist aus der mit dem Wolf tanzt	28
+Spotify konnte Wiedergebe nicht starten.	49
+Playlist wurde nicht gefunden	29
+Es wurde keine übereinstimmende Playlist gefunden	49
+suche	5
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 suche nach	10
 schalte Spotify Shuffle aus	27
 schalte Spotify Shuffle	23
@@ -2070,17 +2545,30 @@ was wird gespielt	17
 sag mir was gespielt wird	25
 was hören wir ich gerade	24
 welches lied ist das	20
+<<<<<<< HEAD
+=======
+sag mir was gespielt wird	25
+sag mir was gespielt wird	25
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 durch	5
 welches geschichtliche Ereignis passierte an diesem Tag	55
 an diesem Tag in der Vergangenheit	34
 heute in der Vergangenheit	26
 wie verwende	12
+<<<<<<< HEAD
+=======
+wie	3
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Hilf mit	8
 Hilfe	5
 Hilf mir bei	12
 was sagen mit	13
 Sprache	7
 Sprachen	8
+<<<<<<< HEAD
+=======
+wiederhole	10
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 übersetzung skill	17
 übersetze	9
 kannst du sprechen	18
@@ -5784,6 +6272,10 @@ Dominik und Mika haben seit kurzem ein neues Projekt am Laufen.	63
 Donauwelle heißt mancherorts auch Schneewittchenkuchen.	55
 Donnerstag ist Semestereinstand.	32
 Doppelt hält besser.	20
+<<<<<<< HEAD
+=======
+Doppelt hält besser.	20
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Doris ist immer auf Achse.	26
 Dort geht er einfach mal darauf ein, ob eine unverschlüsselte E-Mail funktioniert.	82
 Dort gibt es Lilien noch und nöcher.	36
@@ -14635,6 +15127,35 @@ x und y heben sich gegenseitig weg.	35
 Überzeugen Sie Ihren Nachbarn davon, wie cool Sie sind!	55
 Überzeugen Sie sich selbst!	27
 Übrigens ist der komplette Wald künstlich angelegt.	51
+<<<<<<< HEAD
+=======
+ja klar, kannst du einen Kindersitz ausleihen.	46
+Ähnlich fruchtbare Arbeit würde ich mir auch für das neue Werkzeug wünschen.	76
+Über Belichtungszeit und Filmempfindlichkeit beeinflusst man die Helligkeit des Bildes.	87
+Über Hiroshima und Nagasaki wurden die ersten Atombomben abgeworfen.	68
+Über Schnellspanner freuen sich auch Diebe.	43
+Über der heißen Straße flimmerte die Luft.	42
+Über die Jahre hat sich einiges angehäuft.	42
+Über die Vielseitigkeit der Kokospalme gibt es ein Lied.	56
+Über jene Nacht darf nicht gesprochen werden.	45
+Über kurz oder lang wird euch die Anbindung zum Engpass werden.	63
+Über kurz oder lang wird sich das nicht vermeiden lassen.	57
+Über meine Quellen spreche ich nicht.	37
+Über mitgeteilten Neid weiß der Beneidete Bescheid.	51
+Über uns hatten wir den sternenklaren Nachthimmel.	50
+Über verletzte Arterien kann man sehr schnell große Blutverluste erleiden.	74
+Überall Löcher, wohin das Auge auch reicht.	43
+Überall in der Anstalt huschen diese unheimlichen Gestalten herum.	66
+Überall lauern Fallen.	22
+Überall liegen Zigarettenstummel auf dem Weg herum.	51
+Überhaupt ist so ein Akkuschrauber ein sehr vielseitig einsetzbares Werkzeug.	77
+Überlegt euch mal, was wir hier gerade für ein Bild abliefern!	62
+Überprüfen Sie die Füllstandsanzeige!	37
+Überprüfen Sie die Stromversorgung.	35
+Überraschung!	13
+Überzeugen Sie sich selbst!	27
+Übrigens ist der komplette Wald künstlich angelegt.	51
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Leon Dussek war ein französischer Hersteller von Automobilen.	61
 Das Unternehmen begann neunzehnhundertsechs mit der Produktion von Automobilen.	79
 Der Markenname lautete Leon Dussek.	35
@@ -15702,6 +16223,10 @@ Hat Dresden einen Flughafen?	28
 Was kostet eine Fahrt nach Oberhausen?	38
 Bist du schon mal nach Koblenz gelaufen?	40
 Wie weit ist Tübingen von hier entfernt?	40
+<<<<<<< HEAD
+=======
+Kann man mit dem Auto nach Baden-Baden fahren?	46
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Hat Bayreuth einen Bahnhof?	27
 Wie ist das Wetter in Schwerin?	31
 Ist das Wetter in Leverkusen besser als in Ludwigshafen am Rhein?	65
@@ -23370,6 +23895,11 @@ Sein Vater war Jurist und stellvertretende Justizminister.	58
 Elon war verheiratet und Vater von sechs Kindern.	49
 Sie steht dem linken Flügel ihrer Partei nahe.	46
 Mai zweitausendsiebzehn Abgeordnete des Landtags Nordrhein-Westfalen.	69
+<<<<<<< HEAD
+=======
+Oktober zweitausendvierzehn über den Schutz der Kulturgüter bei bewaffneten Konflikten unter Schutz stehen.	107
+Schweizerisches Inventar der Kulturgüter von nationaler Bedeutung.	66
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Edenholzhausen ist ein Ortsteil von Weichs.	43
 Zweiundvierzig Kilometer nordwestlich von München im oberbayerischen Landkreis Dachau liegt.	92
 von Regensberg gegründet.	25
@@ -23481,6 +24011,10 @@ Er verließ den badischen Staatsdienst und zog nach Berlin.	58
 Seitdem war er im internationalen Vereinsleben überwiegend für den Ausbau des internationalen Urheberrechts und des gewerblichen Rechtsschutzes tätig.	150
 Generalsekretär der deutschen Vereinigung für gewerblichen Rechtsschutz und Urheberrecht.	89
 Seine Frau starb bereits Anfang des Jahres achtzehnhundertzweiundsiebzig im Alter von zweiunddreißig Jahren in Brüssel.	119
+<<<<<<< HEAD
+=======
+Die Ehe blieb kinderlos.	24
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Sie war eine der ersten professionellen US-amerikanischen Bluessängerinnen und gilt als Mutter des Blues.	105
 Es gibt eine Reihe unterschiedlicher Farbschläge.	49
 Am verbreitetsten ist der doppeltgesäumte Farbschlag, der eine sehr ungewöhnliche Federzeichnung hat.	101
@@ -24117,7 +24651,11 @@ Naumann lebt in Hamburg.	24
 Die Übereinkünfte aus damaliger Zeit gelten bis heute als bedeutend.	68
 Im März eintausendneunhundertsechsundneunzig übernahm Naumann das Amt des Bundesvorsitzenden von Pro Bahn von seinem Vorgänger Kurt Bielecki und war über sechzehn Jahre durchgängig an der Spitze des Fahrgastverbandes.	217
 Sado ist eine japanische Insel, der Westküste Honshūs vorgelagert.	66
+<<<<<<< HEAD
 sechzig km nordwestlich vor der Stadt Niigata in der Präfektur Niigata im Japanischen Meer.	91
+=======
+60 km nordwestlich vor der Stadt Niigata in der Präfektur Niigata im Japanischen Meer.	86
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Mit einer Fläche von 854,76 km² entspricht sie in ihrer Ausdehnung etwa der Insel Rügen.	88
 Die Landschaft ist durch Vulkanismus geprägt.	45
 Der höchste Berg, Kinpoku-san , ist eintausendeinhundertzweiundsiebzig m hoch.	78
@@ -24326,6 +24864,10 @@ Südlich des Ortes liegen die Schönweiher.	41
 Seit dem Gemeindeedikt gehört der Ort zu Feuchtwangen.	54
 War jedoch inzwischen äußerst angespannt.	41
 er wollte seit Oktober zweitausendvierzehn über den Schutz der Kulturgüter bei bewaffneten Konflikten unter Schutz stehen.	122
+<<<<<<< HEAD
+=======
+Schweizerisches Inventar der Kulturgüter von nationaler Bedeutung.	66
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Mit Mitteln des Unternehmens ABB wurden erste Dozenten engagiert.	65
 Zum Produktangebot des japanischen Unternehmens Casio gehören unter anderem Digitalkameras.	91
 Dieser Artikel enthält eine Liste der verschiedenen Modelle der produzierten Baureihen.	87
@@ -24334,6 +24876,10 @@ Anfang zweitausendvierzehn wurde bekannt, dass sich Casio zumindest vorläufig k
 Im Ausland jedoch sind die Kameras nach wie vor erhältlich und es kommen weiterhin neue Modelle.	96
 Im Mai zweitausendsechzehn kehrte Casio nach einer fast zweijährigen Pause auf den Markt für digitale Kameras zurück.	117
 Der Wahlkreis umfasst das Bundesland Niederösterreich.	54
+<<<<<<< HEAD
+=======
+Diese Tabelle ist eine Teilliste der Liste der Baudenkmäler in Bayern.	70
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Der überwiegend von Wohngebieten geprägte Stadtteil grenzt im Norden an Poppenbüttel, zum Teil durch den Alsterlauf begrenzt.	125
 Der Name geht auf eine sächsische Gründung durch einen Mann namens Walding zurück.	82
 Es befand sich seit vierzehnhundertzwölf im Besitz der Bremer Erzbischöfe, die es vornehmlich an Hamburger Domherren verpfändeten.	130
@@ -24769,6 +25315,10 @@ Aufgrund des zeitlichen Auftretens und der unbewiesenen Vermutung, dass eine Kol
 Hinsichtlich der Ursache des exzessiven Schreiens bestehen mehrere Vermutungen, von denen keine allgemein akzeptiert ist.	121
 Die therapeutisch wichtigsten Maßnahmen bestehen in der Aufklärung der Eltern sowie der Anleitung zu einer verständnisvollen Eltern-Kind-Interaktion.	149
 Bereits mit zweiundzwanzig Jahren eröffnete er in Schötz eine eigene Drogerie.	78
+<<<<<<< HEAD
+=======
+Er studierte Jura.	18
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Seine Zulassung als Anwalt erhielt er achtzehnhundertzweiundsechzig und begann dann in New York City zu praktizieren.	117
 Während des Bürgerkrieges verpflichtete er sich in der Unionsarmee.	67
 Sein Werk ist vornehmlich der Romantischen Malerei zuzuordnen.	62
@@ -24818,6 +25368,10 @@ Holmes fährt herum und versucht den Dieb zu ergreifen, doch der macht sich erne
 Nun nimmt Holmes den Beutel mit dem Diebesgut an sich und will das Zimmer verlassen, als der Einbrecher wieder erscheint und durch das Fenster ins Freie flüchtet.	162
 Über die Hintergründe der Entstehung dieses kurzen Films ist nahezu nichts bekannt.	83
 Im selben Jahr wurde er in den Zürcher Regierungsrat gewählt.	61
+<<<<<<< HEAD
+=======
+Es werden zwei Unterarten unterschieden.	40
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Weibchen sind tendenziell etwas kleiner und haben vor allem einen kürzeren Schnabel.	84
 Die Dienstgradgruppe umfasst alle höheren Unteroffiziersdienstgrade.	68
 Es liegt etwa einundzwanzig Kilometer nordwestlich und etwa achtzehn Kilometer östlich der Ortschaft.	101
@@ -24957,6 +25511,10 @@ An Werktagen finden täglich fünf christliche Andachten statt, an Samstagen und
 Das Gebäude hat vierundfünfzig Etagen und besteht aus neun Flügeln mit jeweils einem eigenen Eingangsbereich.	109
 Die Flügel sind nur in den ersten fünf Stockwerken miteinander verbunden.	73
 Auf dem Abschnitt vom zehnten bis zum siebenunddreißigsten Stock befinden sich Wohnetagen.	90
+<<<<<<< HEAD
+=======
+Diese Tabelle ist eine Teilliste der Liste der Baudenkmäler in Bayern.	70
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Die Bezeichnung ist nicht amtlich.	34
 Vor allem das sich Bewegen im Weltall kostete die Astronauten so viel Mühe, dass teilweise die völlig überbeanspruchte Klimaanlage versagte.	140
 Sie kam allerdings nie aktiv im All zum Einsatz.	48
@@ -25388,6 +25946,10 @@ Sie befinden sich in zumeist weitläufigen Tiefebenen an den Mittel- und Unterl�
 Das Gemeindegebiet ist recht schwach bewaldet.	46
 Im Oktober zweitausendsiebzehn trat er wegen der Vorwürfe zurück.	65
 Sein Nachfolger wurde Dalius Krinickas.	39
+<<<<<<< HEAD
+=======
+Nach einem anschließenden Jurastudium und seiner Zulassung als Rechtsanwalt begann er in seinem neuen Beruf zu arbeiten.	120
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Er trat in mehr als zweihundert Filmen auf.	43
 Fünf dieser Preise gewann er allein in der Kategorie Bester Komiker.	68
 Nach seiner Vollendung war das Gebäude kurzzeitig das fünfthöchste Hochhaus New Yorks.	86
@@ -25399,6 +25961,10 @@ Oskar ist halbtags im Ministerium tätig.	40
 Aus kleinen, engen Verhältnissen hatte sie der stets verständnisvolle Gatte in seine Kreise emporgehoben.	105
 Mittlerweile wurden nahe dem Gutshof zwei Straßen errichtet, an denen mehrere Dutzend Wohnhäuser liegen.	104
 Demzufolge sind sie nachtaktive Baumbewohner, die in der Trockenzeit einen Winterschlaf halten.	95
+<<<<<<< HEAD
+=======
+Die Winter sind relativ angenehm, dennoch werden ab und zu auch Minusgrade im einstelligen Bereich erreicht.	108
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 In den nächsten zwei Jahrzehnten wurde der Inhalt auf etwa vierhundertfünfzig Seiten erweitert und an die Fortschritte der Rechentechnik angepasst.	147
 Einige der fehlenden, etwa einen Meter hohen Steine sind in neuerer Zeit ersetzt worden.	88
 Sie unternahm zahlreiche Reisen und galt bei ihren Zeitgenossen als lebhafte und unkonventionelle Frau.	103
@@ -25432,6 +25998,10 @@ Dieser wurde sogar vom Betriebssystem von Anfang an unterstützt.	64
 So konnte man mit ihm gleich nach dem Anschalten, je nach eingelegten Modulen und angeschlossenen Peripheriegeräten, zwischen verschiedenen Menüpunkten auswählen.	162
 Links neben der Tastatur war ein Schacht für Steckmodule, welcher durch eine Klappe geschützt war.	98
 Diese wurde durch einen Drucktaster geöffnet und ließ sich gegen unbeabsichtigtes Öffnen durch einen Schiebeschalter verriegeln.	128
+<<<<<<< HEAD
+=======
+Die Anmerkungen sind zu beachten.	33
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Diese Liste ist nicht geeignet, verbindliche Aussagen zum Denkmalstatus eines Objektes abzuleiten!	98
 Die amtliche Kulturdenkmalliste ist niemals abgeschlossen.	58
 Dies bedeutet, dass effektives Lernen eines längerfristigen systematischen Aufbaus bedarf.	90
@@ -25576,10 +26146,18 @@ Er hat drei Geschwister.	24
 Er besuchte die University of St Andrews.	41
 Davon zeugt die reiche Ausstattung der Kirche.	46
 Im Dreißigjährigen Krieg wurde der Ort stark verwüstet, die Einwohnerzahl ging stark zurück.	92
+<<<<<<< HEAD
 eintausendsiebenhundertdreiundsechzig wurde die Pfarrei von kurtrierischen Grenadieren mit Gewalt besetzt und anstelle des Prämonstratenserpaters ein den Trierern genehmer Kaplan eingesetzt.	190
 Seine politischen Anhänger nannte man früher Orangisten.	56
 Es handelt sich um gegrillte Hackfleischröllchen.	49
 Damals wurde auch festgelegt, dass ein Kilogramm Hackfleisch mindestens drei Gramm Natriumbikarbonat enthalten sollte.	118
+=======
+1763 wurde die Pfarrei von kurtrierischen Grenadieren mit Gewalt besetzt und anstelle des Prämonstratenserpaters ein den Trierern genehmer Kaplan eingesetzt.	157
+Seine politischen Anhänger nannte man früher Orangisten.	56
+Es handelt sich um gegrillte Hackfleischröllchen.	49
+Damals wurde auch festgelegt, dass ein Kilogramm Hackfleisch mindestens drei Gramm Natriumbikarbonat enthalten sollte.	118
+Sie ist verheiratet und hat zwei Kinder.	40
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Sie ist verheiratet, hat eine Tochter und spricht Russisch, Polnisch, Deutsch und Englisch.	91
 Obwohl es kurz vor Weihnachten ist, herrscht in der Stadt Sommerwetter.	71
 Die Rinde ist rotbraun und zeigt weiße bis gelbliche Schattierungen.	68
@@ -25689,6 +26267,10 @@ Wahrzeichen des Orts ist ein weithin sichtbarer Leuchtturm.	59
 Der Ort ist zu erreichen über zwei Stichstraßen.	48
 Er kann sich aber keine Schule und keinen Lehrer leisten und beschließt somit, sich selbst zu unterrichten.	107
 Er entschließt sich, fortan lieber Schriftsteller als Bankangestellter, Lehrer oder Rechtsanwalt zu sein.	105
+<<<<<<< HEAD
+=======
+Der Weg dahin gestaltete sich jedoch nicht immer einfach.	57
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Man betritt die Ruhestätte durch einen kleinen Eingangsbau.	59
 Darüber hinaus fehlte es ihm an persönlicher Begabung.	54
 Bereits dort fiel er aufgrund seiner Härte auf und musste deswegen viele Minuten auf der Strafbank absitzen.	108
@@ -25713,6 +26295,11 @@ Nebenbei war sie als wissenschaftliche Hilfskraft bei der Gesamthochschule Kasse
 Danach war sie bis neunzehnhundertachtundneunzig Mitarbeiterin eines Bundestagsabgeordneten.	92
 Heute werden die Gebäude für Wohnzwecke und auch durch Dienstleister genutzt.	77
 Hier sind all seine literarischen Werke entstanden.	51
+<<<<<<< HEAD
+=======
+Im Jahre zweitausendzwei begann man mit der Erweiterung des Werkes, um die Produktion mehr als zu verdoppeln.	109
+Diese Phase zwei wurde im Mai zweitausendfünf fertiggestellt.	61
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Bei maximaler Auslastung werden achthundert Megawatt Elektrizität benötigt.	75
 Die Falter erreichen eine Flügelspannweite von dreiundzwanzig bis einunddreißig Millimetern.	92
 Die zweite Generation ist mit zwanzig mm Flügelspannweite meist deutlich kleiner.	81
@@ -25863,7 +26450,15 @@ Die nachfolgende Tabelle enthält eine Teilliste der Asteroidenübersicht.	72
 Er kämpfte im Elsaß gegen die Franzosen und gegen die Schweden in der Schlacht bei Fehrbellin.	94
 Daran schloss sich die Belagerung von Stettin und der Feldzug nach Preußen an.	78
 Aufgrund der fehlenden Zufahrtsstraßen wird der See gewöhnlich per Wasserflugzeug erreicht.	91
+<<<<<<< HEAD
 Das erste Modell flog zwar, stürzte jedoch wegen mangelnder Steuerbarkeit ab.	77
+=======
+Die Einträge erfolgen innerhalb der einzelnen Daten alphabetisch.	65
+Das erste Modell flog zwar, stürzte jedoch wegen mangelnder Steuerbarkeit ab.	77
+Danach baute er mehrere Gleiter nach der Zeichnung im Otto Lilienthal Patent.	77
+Diese Weiterentwicklung wurde ebenfalls durch Gewichtsverlagerung des Piloten gesteuert.	88
+Von diesem verbesserten Entwurf fertigte er drei Stück an.	58
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Kirchenpatron war Johannes der Täufer.	38
 Das Kirchengebäude mit spätromanischen und frühgotischen Elementen wurde zwölfhundert urkundlich erstmals erwähnt.	114
 Heute findet sich am einstigen Standort eine Rasenfläche mit Bäumen, die den südlichen Vorplatz zum Dom bildet.	111
@@ -26307,6 +26902,10 @@ Damit wird einerseits eine effizientere Kraftübertragung ermöglicht, anderseit
 Aufgrund der vielfältigen Anforderungen, welche an Spikes gestellt werden, wurden im Laufe der Zeit disziplinspezifische Schuhe entwickelt.	139
 Im Allgemeinen werden die Dornen auf Höhe des vorderen Drittels der Fußsohle angebracht.	88
 Mit zunehmender Renndistanz nimmt die Härte des Schuhs ab und gleichzeitig die Polsterung zu.	93
+<<<<<<< HEAD
+=======
+Alle Entfernungen sind als Luftlinien zwischen den offiziellen Koordinaten der Orte aus der Volkszählung zweitausendzehn angegeben.	131
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Sie entwickelte sich rasch zur Spitzenspielerin Schottlands.	60
 Etwa die Hälfte des Budgets stammt aus staatlichen und kommunalen Zuschüssen.	77
 Dabei wurden den Juden die Arbeitsmöglichkeiten und ihre Vermögen entzogen.	75
@@ -26454,6 +27053,10 @@ Nach seinem Abschluss wirbt ihn ein US-Geheimdienst an.	55
 Die Strecke führt durch den Hochschwarzwald, mit dem Feldberggebiet durchfährt sie eines der am meisten besuchten Urlaubs- und Naherholungsgebiete Baden-Württembergs.	166
 Auf diese Weise sollte eine weitere strategische Bahn geschaffen werden, die eine Umfahrung von Schweizer Gebiet möglich machen sollte.	135
 Aus bürokratischen Gründen wurde dieses Vorhaben wieder verworfen.	66
+<<<<<<< HEAD
+=======
+Die Anzahl der Höchstverleihungen war pro Jahr auf fünfundfünfzig Ehrentitel begrenzt.	86
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Auf ihm sind zwei senkrechte orange Streifen von drei Millimeter Breite eingewebt, die drei Millimeter vom Saum entfernt sind.	126
 Südlich erhebt sich mit dreihundertdreiundachtzig Meter über Normalnull eine Anhöhe.	84
 Zu dieser Zeit lebten sieben Einwohner im Ort, allesamt evangelischen Glaubens.	79
@@ -26544,6 +27147,10 @@ Die Gattung besteht aus nur drei mehrjährigen Arten, die alle winterhart sind.	
 Die Gattung ist nah verwandt mit den Lilien, zu denen ihre Arten früher auch gezählt wurden.	92
 Ab der Blühreife entwickeln sie einen hohen, unverzweigten Blütenstamm.	71
 Die Pflanzen sterben nach der Samenreife ab, bilden aber bis zu zehn Tochterzwiebeln aus, die in drei bis fünf Jahren Blühreife erlangen.	137
+<<<<<<< HEAD
+=======
+Eine Relegation war nicht vorgesehen.	37
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Es werden verschiedene SQL-Ausprägungen unterstützt.	52
 Seine Verlobte Monika wartet derweil im Berghotel auf ihn.	58
 Für Monika findet er kaum Zeit.	31
@@ -26579,6 +27186,10 @@ Daneben gibt es in den natürlichen Verlauf von Fließgewässern eingebettete Wa
 Hierbei wird in kaltem Wasser auf der Stelle geschritten.	57
 In Armbecken werden die Arme bis zur Mitte der Oberarme ins kalte Wasser getaucht.	82
 Der Artikel ist Teil der übergeordneten Liste öffentlicher Kneipp-Anlagen in Deutschland.	89
+<<<<<<< HEAD
+=======
+Die Liste erhebt keinen Anspruch auf Vollständigkeit.	53
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Er war der Sohn eines staatlichen Försters.	43
 Seine Konfession war evangelisch.	33
 Als Pilot der deutschen Luftwaffe war er vier Jahre an der Ostfront eingesetzt.	79
@@ -26638,6 +27249,10 @@ Es werden fünf Unterarten unterschieden.	40
 Auch die Texte fielen härter aus.	33
 Unterbrochen wurde dies nur durch die Besetzung Polens durch die Wehrmacht im Zweiten Weltkrieg.	96
 Der See maß einst sechsundsiebzig Hektar, hat sich aber durch zunehmende Umweltzerstörung deutlich verkleinert.	111
+<<<<<<< HEAD
+=======
+Schweizerisches Inventar der Kulturgüter von nationaler Bedeutung.	66
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Bei niedrigen Bandraten können die Daten auch über elektrische Schnittstellen übertragen werden.	96
 die ehemalige Burg stand auf einem zum Schwarzbach abfallenden Hang nahe der Stelle der früheren Schlosskapelle, die heute von der neu erbauten Kirche eingenommen wird.	168
 Der Rumpfausbau musste selbst durchgeführt werden, die Flächenanschlüsse und wichtigsten Einbauten waren bereits fertiggestellt.	128
@@ -26727,7 +27342,11 @@ Oktober eintausendneunhundertachtundvierzig eingeweiht.	55
 Mai 1946, dem ersten Jahrestag des Kriegsendes.	47
 Die Kirche setzte den Maßstab für die zweiundvierzig folgenden Notkirchen Bartnings.	84
 Die Einkommensteuer in Australien wird vom australischen Bund erhoben und macht über die Hälfte der gesamten Steuereinnahmen des Bundes aus.	140
+<<<<<<< HEAD
 eintausendneunhundertsieben hatten alle Bundesstaaten eine Einkommensteuer eingeführt, jeder Staat besaß jedoch ein eigenes Steuerrecht.	136
+=======
+1907 hatten alle Bundesstaaten eine Einkommensteuer eingeführt, jeder Staat besaß jedoch ein eigenes Steuerrecht.	113
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Im Jahr eintausendneunhundertfünfzehn wurde eine Einkommensteuer auf Bundesebene eingeführt, die Steuern der einzelnen Staaten blieben jedoch zunächst bestehen.	160
 Ab eintausendneunhundertsechsunddreißig wurde das Steuerrecht der einzelnen Bundesstaaten aneinander angeglichen.	113
 es wurde ein Gesetz verabschiedet, das die Einkommensteuer des Bundes erhöhte und gleichzeitig für Bundesstaaten, die ihre Steuer abschafften, Entschädigungszahlungen vorsah.	174
@@ -26812,6 +27431,10 @@ Der Kreuzreim taucht als Endreim in allen Strophen auf.	55
 Die österreichischen Budgetmittel wurde in den ersten Jahren nach dem Ersten Weltkrieg und dem darauffolgenden Zusammenbruch der Donaumonarchie für den Energieimport vor allem für Kohle ausgegeben.	197
 Um diese Ausgaben zu reduzieren, wurde mit dem Ausbau der österreichischen Wasserkraft begonnen.	96
 Die Firma wurde mit der Aufgabe gegründet, die Stadt mit hydroelektrischer Energie zu versorgen.	96
+<<<<<<< HEAD
+=======
+Gleichzeitig ist diese Zusammenstellung ein Teil der Listen aller Berliner Straßen und Plätze.	94
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Doch dieser macht ihr Vorhaltungen, da sie sich bei der Gefangennahme nicht selbst getötet hat.	95
 Er hat insbesondere den Bims als Baumaterial bekannt gemacht.	61
 Bims liegt in großen Mengen im Koblenz-Neuwieder Becken an.	59
@@ -26928,6 +27551,10 @@ Der Zwiebelturm und die Unterkellerung mit dem Tonnengewölbe könnten noch Rest
 Er studierte Jura eine Zeitlang.	32
 Danach ging er dem Gießereigeschäft nach.	41
 Dies ist eine Liste im Jahr eintausenddreiundneunzig verstorbener bekannter Persönlichkeiten.	93
+<<<<<<< HEAD
+=======
+Die Einträge erfolgen innerhalb der einzelnen Daten alphabetisch.	65
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Der Ansatz der Symbolischen Führung ist ein modernes Konzept der Personalführung.	81
 Führung ist unsichtbar.	23
 Weil Führungs-Kraft als solche nicht erkennbar ist, muss sie personifiziert werden, um wahr und ernst genommen zu werden.	121
@@ -27156,6 +27783,10 @@ In den folgenden Saisons etablierte er sich dort als Stammspieler.	66
 Die australische Auswahl konnte den Titel zum siebten Mal erringen.	67
 Die Böden sind sehr kalkhaltig, sodass Niederschläge schnell versickern.	72
 In seinen Werken huldigte er in eigenwilliger Weise der romantischen Richtung.	78
+<<<<<<< HEAD
+=======
+Er ist verheiratet und hat zwei Kinder.	39
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Sie heiratete zu diesem Zeitpunkt und zog nach Neunburg vorm Wald.	66
 Gleichzeitig spielt er mit seiner Tochter Luna die Hauptrolle.	62
 Die Ausreißerin Nina wird Zeugin des Mordes an ihrem ersten Freund in einem Berliner Nobelhotel.	96
@@ -27253,7 +27884,11 @@ Erst postum wurde sie als Gerechte unter den Völkern geehrt.	60
 Durch ihren Vater kamen sie schon früh in Berührung mit Autos.	62
 Aus dessen Garage heraus verkauften sie Autos.	46
 Im Februar zweitausendneun stiegen die Brüder hauptberuflich in den Autohandel ein.	83
+<<<<<<< HEAD
 zweitausenddreizehn folgte der Showroom und die Zusammenlegung ihrer beiden Unternehmen, zweitausendsiebzehn folgte der zweite Showroom.	136
+=======
+2013 folgte der Showroom und die Zusammenlegung ihrer beiden Unternehmen, zweitausendsiebzehn folgte der zweite Showroom.	121
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Ihr Autohaus befindet sich heute im nah gelegenen Melchingen.	61
 Der Flugplatz Ras Lanuf ist ein Flugplatz in Libyen.	52
 Der Flughafen liegt zweihundert km südöstlich von Surt an der Mittelmeerküste.	78
@@ -27530,7 +28165,11 @@ Sie wird für schwarzes Theater genauso wie für offenes Spiel eingesetzt und is
 An der Ortsgrenze zu Rothenkirchen verläuft die Grenze zum Vogtland.	68
 Während des Zweiten Weltkrieges wurde der Flughafen von verschiedenen Einheiten der Luftwaffe genutzt.	102
 Nach dem Ende des Zweiten Weltkrieges beschlagnahmten die Briten das Gelände und brachten in den nicht zerstörten Gebäuden Flüchtlinge unter.	141
+<<<<<<< HEAD
 eintausendneunhundertsechsundfünfzig wurde mit dem Bau der Lützow-Kaserne begonnen.	83
+=======
+1956 wurde mit dem Bau der Lützow-Kaserne begonnen.	51
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Im März neunzehnhundertneunundfünfzig wurden die ersten Gebäude der neuen Kaserne von der Bundeswehr bezogen.	109
 Im Südosten liegt der ebenfalls durch Kohleabbau entstandene Bauernsee.	71
 Alle weiteren Straßen sind untergeordnete Landstraßen, teils unbefestigte Fahrwege oder innerörtliche Verbindungsstraßen.	121
@@ -28027,6 +28666,10 @@ Meisterschaften werden von Einzelpersonen oder Mannschaften ausgetragen.	72
 Bei vielen Sportarten erhalten die Gewinner auch einen Geldpreis.	65
 Die Ermittlung der Gewinner erfolgt mit Messmitteln.	52
 Die Wieda entspringt im niedersächsischen Teil des Harzes im Naturpark Harz.	76
+<<<<<<< HEAD
+=======
+Die sechzehn besten Spieler wurden gesetzt.	43
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Es handelt sich dabei um exogene chemische Substanzen, die für die normale Zellfunktion nicht notwendig sind, aber Effekte auf physiologischer Ebene und im Erleben und Verhalten hervorrufen können.	197
 Es wird aber allgemein akzeptiert, dass es eindeutige Hinweise auf diese persönliche Verbindung gibt.	101
 Sie ist die Komplizin und Exfrau des Sexualstraftäters und Mörders.	67
@@ -28421,6 +29064,11 @@ Der Halsschild ist kürzer als breit.	36
 Der Rüssel ist kurz und breiter, als lang.	42
 Er ist unmerklich schmaler als der Kopf und ab den Fühlereinlenkungen nach unten gekrümmt.	90
 Die Schenkel aller drei Beinpaare haben einen deutlichen Zahn.	62
+<<<<<<< HEAD
+=======
+Hierbei wird in kaltem Wasser auf der Stelle geschritten.	57
+Die Liste erhebt keinen Anspruch auf Vollständigkeit.	53
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Seine Amtszeit beträgt fünf Jahre.	34
 Dazu gehören Aufgaben des Gesundheits-, Ordnungs-, Standes-, Bau- und Einwohnermeldewesens.	91
 Er schlichtet Streit und achtet auf die öffentliche Ordnung.	60
@@ -28488,6 +29136,10 @@ Etwa fünfhundert Meter südlich fließt der Biberbach.	52
 Am Ende dieses Jahrzehnts begann er als Schauspieler tätig zu werden.	69
 Sein Schwerpunkt lag zeitlebens auf Fernsehproduktionen, unterbrochen von nur wenigen Filmauftritten.	101
 Diese Liste ist eine Teilliste der Liste der Baudenkmäler in Bayern.	68
+<<<<<<< HEAD
+=======
+Die folgenden Angaben ersetzen nicht die rechtsverbindliche Auskunft der Denkmalschutzbehörde.	94
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Auch die Einbeziehung der Bürger in den Planungsprozess musste erst erkämpft werden.	84
 Dies geschieht durch den Einsatz eines geeigneten Schmierstoffes und Schmierverfahrens in der Tribologie.	105
 Der Schmierstoff dringt in den Festkörper ein, es bildet sich eine Reaktionsschicht.	84
@@ -28573,6 +29225,10 @@ Das Kraftwerk Buschhaus gehört damit zu den dreißig Kohlekraftwerken mit dem g
 Über ihr Leben ist wenig bekannt.	33
 Im Alter von zwölf Jahren begann sie zu rappen.	47
 Ihre schulische Laufbahn schloss sie mit dem Abitur ab.	55
+<<<<<<< HEAD
+=======
+Unterbrochen wurde dies nur durch die Besetzung Polens durch die Wehrmacht im Zweiten Weltkrieg.	96
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Sie gilt als mittelstark bis stark im Geschmack.	48
 Anschließend begann er seine Gesellenjahre mit einer Wanderzeit und dem Besuch der Gewerbeschule in Basel.	106
 Kompetenzfelder sind die maschinelle Bearbeitung, Umformung und Montage von Teilen.	83
@@ -28767,6 +29423,10 @@ Er nimmt Kurs auf ein nahes Kreuzfahrtschiff, es ertönen deutsche Kommandos: �
 Der schwarze Frachter ist auf Kollisionskurs, das Horn erklingt.	64
 Er versucht ein Ausweichmanöver, doch er kann die Kollision nicht verhindern.	77
 Der Pfarrer wurde verjagt, der Pfleger der Grafschaft im Schloss Frankenburg belagert.	86
+<<<<<<< HEAD
+=======
+Nachdem ihnen Gnade versprochen worden war, gaben sie die Belagerung auf.	73
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Die Käfer werden vierzig bis zu siebzig Millimeter lang, wobei die Weibchen etwas größer als die Männchen werden.	113
 Die Imagines ernähren sich von Pollen.	38
 Dies ist nur dann der Fall, wenn es an der betreffenden Stelle kalt genug ist, das heißt, diese hoch genug liegt.	113
@@ -28797,6 +29457,10 @@ Die Bebauung ist durch Einfamilienhäuser mit großen Gärten geprägt.	67
 Dabei wurden nur einstöckige oder zweistöckige Häuser erbaut, obwohl ein korrekter Bebauungsplan nicht vorlag.	110
 Den Namen bekam die Siedlung, weil die Straßen nach Personen der Nibelungensage benannt wurden.	95
 Der Name wird auch von der Stadtverwaltung offiziell verwendet.	63
+<<<<<<< HEAD
+=======
+Er ist verheiratet.	19
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Mit Frau Regina hat er den Sohn Gintautas.	42
 Die Grenze zu Kanada befindet sich dreihundertachtundsiebzig Kilometer nördlich.	80
 Die betreffende Handlung geschieht bewusst, aber ohne Bewusstsein des darin enthaltenen Fehlers.	96
@@ -28966,6 +29630,10 @@ Jedoch erhalten spezielle Fahrzeuge mit kleiner Motorleistung ihre Zulassung von
 Weitere Kriterien für die Auswahl des Kennzeichens sind die Abmessungen des Fahrzeuges.	87
 Die Kennzeichen werden in drei verschiedenen Größen, je nach Fahrzeugtyp herausgegeben.	87
 Dieses Benefizium besteht zwar heute noch, ist aber nicht mehr mit einem Priester besetzt.	90
+<<<<<<< HEAD
+=======
+Die Zeitschrift wurde als Fachmagazin für Ingenieure geschaffen.	64
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Zusammen mit der heutigen Zeitschrift Engineering ist das Werk eine wertvolle historische Quelle für die Studie der britischen Wirtschaftsgeschichte.	149
 Der untere Abzweig des Steigs von der Forststraße ist unscheinbar und nicht beschildert.	88
 Ein Waschbecken ist ein nach oben konkaves Behältnis mit Ablauf zur Kanalisation sowie einer Armatur zur dosierten Abgabe warmen oder kalten Wassers.	149
@@ -29136,6 +29804,11 @@ Im Ausstellungsstück war eine Motorattrappe aus Holz und Kunststoff eingebaut.	
 Er stammte aus einer Leipziger Gelehrtenfamilie und schlug eine Verwaltungslaufbahn ein.	88
 Er wurde wie viele seiner Vorfahren Jurist im Dienst des Kurfürsten und Könige von Sachsen.	91
 Frank Winkler hatte den wohl härtesten Angriffsschlag in der Bundesliga.	72
+<<<<<<< HEAD
+=======
+Diese Tabelle ist eine Teilliste der Liste der Baudenkmäler in Bayern.	70
+Die folgenden Angaben ersetzen nicht die rechtsverbindliche Auskunft der Denkmalschutzbehörde.	94
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Sie ist mit Wohnhäusern und kleinen Bauernhöfen in geschlossener Reihung bebaut.	80
 Seine Familie wanderte in die Vereinigten Staaten aus, als er ein Baby war.	75
 Seit seiner Schulzeit interessiert sich der praktizierende Moslem für die Schauspielerei.	89
@@ -29176,6 +29849,10 @@ Von dieser zweigt eine Gemeindeverbindungsstraße nach Oberreuth ab.	67
 Falls die Entwicklung nicht mit dem dritten Glied abbricht, enthält sie unendlich viele Beiträge.	97
 Im darauf folgenden Jahr wechselte er nach Warschau, damals noch unter russischer Herrschaft stehend.	101
 Zwei Jahre später gewann er mit dem Team die Europameisterschaft im eigenen Land durch ein drei zu eins im Finale gegen Jugoslawien.	132
+<<<<<<< HEAD
+=======
+Insgesamt kam er auf einhundertzwanzig Einsätze in der Nationalmannschaft.	74
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Der Pansen ist bei ausgewachsenen Tieren der größte der drei Vormägen.	70
 Er nimmt die gesamte linke Hälfte der Bauchhöhle ein, im hinteren Bereich beansprucht er teilweise sogar einen Teil der rechten Bauchhälfte.	140
 Sein Vater, Handelsvertreter in einem örtlichen Unternehmen, spielt als Amateur Akkordeon, seine Mutter singt in der katholischen Kirchengemeinde.	146
@@ -29271,6 +29948,11 @@ Seine musikalische Ausbildung in den Fächern Klavier, Orgel, Flöte und Musikth
 Seine ersten Kompositionen erfreuten sich großer Beliebtheit.	61
 Hier gehörte er seitdem zu den besten Stürmern der Liga.	56
 Das LSG besteht aus zwei Teilflächen.	37
+<<<<<<< HEAD
+=======
+Diese Tabelle ist eine Teilliste der Liste der Baudenkmäler in Bayern.	70
+Die folgenden Angaben ersetzen nicht die rechtsverbindliche Auskunft der Denkmalschutzbehörde.	94
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Anmerkung: Alle Zeitangaben beziehen sich auf die Ortszeit in Peking.	69
 Der Bach fließt teilweise unterirdisch.	39
 Regelmäßig findet man eine solche Intoleranz gegenüber lautem Schall bei Schwerhörigen mit einer Haarzellschädigung im Innenohr.	128
@@ -29295,6 +29977,10 @@ Ihre Bücher erreichten eine Gesamtauflage von fünfundzwanzig Millionen Exempla
 Auf Rechenmaschinen ist die Summen-Taste mit einem Sternsymbol gekennzeichnet.	78
 Im Alter von zwölf Jahren trat er mit der Band seines Vaters auf, und in seiner Highschoolzeit leitete er bereits eine eigene Band.	131
 Er spielte auch in einer achtköpfigen Salsaband und studierte.	62
+<<<<<<< HEAD
+=======
+Er beendete den Wettbewerb nicht, weshalb er keine Platzierung bekam.	69
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Als Dokufiktion bezeichnet man eine fiktive Dokumentation.	58
 Gewöhnlich dient die Dokufiktion der spektakulären Verbreitung von Wissen über wissenschaftliche Grundprinzipien anhand fiktiver Beispiele.	139
 Besonders beliebt ist dieses Format bei der Erklärung der Prinzipien der Evolution, wobei zukünftige oder außerirdische Tiere und Pflanzen.	139
@@ -29464,9 +30150,17 @@ Die Gemeinde Poxdorf liegt im Regnitztal am Rande der Fränkischen Schweiz zwisc
 Mit zwei gewonnenen Silber- und einer Bronzemedaille belegte das argentinische Team Platz vierundfünfzig im Medaillenspiegel.	125
 Im Vordergrund steht das Möbel als Ikone mit hohem Wiedererkennungswert.	72
 Möbel wurden aus elementaren Formen zusammengesetzt und mit grellen Kunststofflaminaten beschichtet.	100
+<<<<<<< HEAD
 Es bestand keine Verbindung zum Automobilhersteller Legrand, der eintausendneunhunderteins tätig war.	101
 Im Angebot stand nur ein Modell.	32
 Für den Antrieb sorgte ein Vierzylindermotor.	45
+=======
+Im gleichen Jahr endete die Produktion bereits wieder.	54
+Es bestand keine Verbindung zum Automobilhersteller Legrand, der eintausendneunhunderteins tätig war.	101
+Im Angebot stand nur ein Modell.	32
+Für den Antrieb sorgte ein Vierzylindermotor.	45
+Der Motor war vorne im Fahrzeug montiert und trieb über eine Kardanwelle die Hinterachse an.	92
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Die Besonderheit war, dass die Kardanwelle flexibel war.	56
 Das Getriebe verfügte über drei Gänge.	38
 In Abgrenzung zu den Kleinbären werden sie auch als Großbären oder Echte Bären bezeichnet.	90
@@ -29529,6 +30223,60 @@ Aus Sicherheitsgründen können keine Fahrzeuge ohne Berechtigung in die Nähe d
 Deswegen ist er ein ruhiger Platz, der im Sommer durch Spielgeräte und einen im Boden eingesenkten Brunnen für Kinder attraktiv ist.	132
 Split erlebte in jenen Jahren seine Blütezeit.	46
 Er besitzt ausschließlich die deutsche Staatsangehörigkeit.Alle Bären sind Sohlengänger, wobei die Fußsohlen meist behaart sind; lediglich bei Arten, die oft auf Bäume klettern, wie den Malaienbären, sind die Fußsohlen nackt.	225
+<<<<<<< HEAD
+=======
+Der Schwanz ist nur ein kleiner Stummel.	40
+In seiner Jugend begeisterte er sich für Musik, spielte Klavier und Gitarre und sang in einer Band.	99
+Die goldene Medaille war ausschließlich hochrangigen Staatsdienern vorbehalten.	79
+Auf der Rückseite ist das gekrönte große anhaltische Wappen zu sehen.	69
+Der Orden wurde an einem weißen Band mit grünen Seitenstreifen auf der linken Brust oder im Knopfloch getragen.	111
+Es ist ein immergrüner Strauch, mit fein behaarten und grün oder braun gefärbten Zweigen.	89
+Die Laubblätter sind länglich oder linealisch und nach unten gerollt.	69
+Die Staubblätter ragen weit über die Krone hinaus.	50
+Die Kolonie setzte neben der einheitlichen Zuteilung auch eine vereinheitlichte Art von Gebäuden voraus.	104
+Er lebte in Paris und reiste durch Frankreich, Nordafrika und Italien.	70
+Die landesweiten Änderungen in der Zusammensetzung der Kantone brachten im März zweitausendfünfzehn seine Auflösung.	116
+Ihr Vater Julius Kahn war ein wohlhabender Geschäftsmann und Ingenieur.	71
+Erst im Alter von dreißig Jahren erlernte sie das Schachspiel.	62
+Im Süden der Gemeinde liegt ein alter Kalkofen.	47
+Nach den großen Kriegen sind die Staaten zerbrochen; die Welt steht unter der Kontrolle von wenigen Konzernen, die eigene abgeschlossene Parallelgesellschaften bilden.	167
+Über sein Leben ist wenig bekannt; er war vor allem in Mecklenburg und in Lübeck tätig.	87
+Die äußeren Blätter sind orangerot überlaufen.	46
+Die Blattspreite ist zwölf bis achtzehn Millimeter lang und fünf bis sieben Millimeter breit.	93
+Seine Blätter sind mit rötlichen Haaren und Wimpern besetzt.	60
+Die neun- bis elfzähligen Blüten weisen einen Durchmesser von etwa zwei Komma drei Zentimeter auf.	98
+Die fast kahlen Staubfäden sind rot, die Staubbeutel rötlich rosafarben.	72
+In der Elementarzelle befinden sich vier Formeleinheiten.	57
+Die überwiegende Mehrheit dieser Schwimmpanzer wurde im Pazifikkrieg verwendet.	79
+Dort konnten sie über die unter Wasser befindlichen Korallenriffe fahren, die herkömmliche Boote gestoppt hätten.	113
+Sie wurden nach Ende des Zweiten Weltkrieges mehrmals umgerüstet und kamen auch während des Koreakrieges zum Einsatz.	117
+Das Denkmal wurde von Olga Schulz aus Ludwigsburg entworfen, einer Studentin der Hochschule für Gestaltung in Offenbach am Main.	128
+Finanziert wurde das Denkmal durch den Regionalpark RheinMain SüdWest.	70
+Es steht innerhalb des Frankfurter Grüngürtels.	47
+Das Denkmal besteht aus sieben kleinen Gebäuden auf Beton-Fundamenten, die Gewächshäusern nachempfunden und in einer Reihe aufgestellt sind.	140
+Über den Künstler ist wenig bekannt.	36
+Wahrscheinlich bestanden bereits frühere Bindungen zur Stadt.	61
+Er gilt als kleiner Verwandter von Drache und Lindwurm und soll vor allem im Alpenraum und im Alpenvorland vorkommen.	117
+Sie leben in Stollen und Höhlen, die sie selbst in den Felsen graben.	69
+Obwohl im Allgemeinen als relativ scheu beschrieben, gelten Tatzelwürmer auch als gefährlich und aggressiv und sollen Menschen und Tiere angefallen haben.	154
+Dies war so erfolgreich, dass er seither jedes Jahr in dieser Form stattfindet.	79
+Im Jahr zweitausendzwölf musste er wegen der Folgen des Hurrikans Sandy zwei Tage vor dem Start abgesagt werden.	112
+Die Insel ist bei Ebbe über einen Strand zu Fuß zu erreichen.	61
+In der Folge diente die Festung als Hochsicherheitsgefängnis.	61
+Im Norden des Dorfs befindet sich etwas abgeschieden der Ortsteil Schöntal, der andere Teil des Dorfes besitzt keinen Zweitnamen.	129
+Er ist der größte und älteste Gebirgsurlaubsort in Bulgarien.	61
+Das kann man aber nicht wörtlich ins Deutsche übertragen, da es sich nicht um einen klassischen Kurort handelt, in dem medizinische Therapien im Rahmen einer Kur durchgeführt werden.	182
+Die zentralen wasserspeichernde Zellen sind kaum ausgeprägt.	60
+Dahm war ein deutscher Raketenpionier.	38
+Kurz nach seiner Geburt zogen die Eltern nach Bonn.	51
+Schon sein Vater war ein Ingenieur.	35
+Er folgte von Braun auch, als dieser zur NASA wechselte.	56
+Er kann linkes oder rechtes Mittelfeld spielen.	47
+Er zählt zu den fünf Athleten, welche die wichtigsten vier Wettbewerbe im Skisprung-Sport gewonnen haben.	105
+Aus Sicherheitsgründen können keine Fahrzeuge ohne Berechtigung in die Nähe des Jüdischen Zentrums gelangen.	108
+Deswegen ist er ein ruhiger Platz, der im Sommer durch Spielgeräte und einen im Boden eingesenkten Brunnen für Kinder attraktiv ist.	132
+Split erlebte in jenen Jahren seine Blütezeit.	46
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Er besitzt ausschließlich die deutsche Staatsangehörigkeit.	59
 Die vierhundertfünfzig Meter lange und dreißig Meter breite Graspiste und ist für Segelflugzeuge, Motorsegler, Ultraleichtflugzeuge und Motorflugzeuge mit einem Höchstabfluggewicht von bis zu zwei Tonnen zugelassen.	215
 Nach Wetterbesserung starteten zwei der drei Flugzeuge wieder und kreisten über dem Platz, um auf die dritte Maschine zu warten.	128
@@ -29692,6 +30440,10 @@ Die Inschrift lautet:Das Gebäude verfügt über drei Geschosse, einen Wirtschaf
 Die Bauweise des Gebäudes entspricht eher heutigen Hotels als den damaligen Gasthäusern.	88
 Heute wird das leer stehende Gebäude von der Hochschule Merseburg für fotografische Installationen genutzt.	107
 Aus dieser Initiative hat sich das erste amerikanische Verzeichnis von Bildungsmaterialien entwickelt, das einen Verteiler unter schulen und Bibliothekaren aufbaute.	165
+<<<<<<< HEAD
+=======
+Die einzelnen Rennergebnisse werden anhand eines Punktesystems gewertet.	72
+>>>>>>> 72e3c3ca58c4d9c9ffeac3f89249ff7e5ba50b95
 Zu diesem Zeitpunkt ist Pink bereits ein erfolgreicher Rockstar geworden und reist um die Welt.	95
 Die Liste enthält die unter Denkmalschutz stehenden Kulturdenkmäler des Frankfurter Stadtteils Bockenheim.	106
 Eine Vielzahl von Gräbern und Gebäuden auf dem neuen Bockenheimer Friedhof stehen unter Denkmalschutz.	102
